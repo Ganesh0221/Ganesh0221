@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Ganesh0221
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Project Title :- T20 International Matches
 
-<!---
-Ganesh0221/Ganesh0221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Description 👎
+
+This dataset contains 2,328 teams records.The indivisual Result by T20 international matches ,rest of columns contain information such as team,score,overs,rpo,inns,result,opposition,ground,startdate.
+
+team: this column contain various teams.
+
+score: in this column information about score
+
+over: it give information about overs.
+
+inns: number of innings
+
+result: result
+
+opposition: it give information opposition team
+
+ground: ground
+
+startdate: match starting date.
+
+# conclusion:
+
+To conclude that maximum matches lost or won in 
+between 17 to 20 overs.
+Both lost and won matches are percentage is 95.8 and tie maches are 4.2.
+
